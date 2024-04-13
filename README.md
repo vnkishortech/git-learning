@@ -4,3 +4,5 @@ tocuh README.MD -- to create a new file
 git add README.md -- to add new file
 
 git comit -m "comment"
+
+git push
