@@ -6,3 +6,5 @@ git add README.md -- to add new file
 git comit -m "comment"
 
 git push
+
+git commit -am "comment" -- '-am' will add and commit files
