@@ -9,4 +9,4 @@ git push -- this push chagnes to remote repository
 
 git commit -am "comment" -- '-am' will add and commit files
 
-git pull --whatever on the server to download them in my computer
+git pull --whatever on the server to download them in my computer.
