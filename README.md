@@ -8,3 +8,5 @@ git comit -m "comment"
 git push
 
 git commit -am "comment" -- '-am' will add and commit files
+
+git pull --whatever on the server to download them in my computer
