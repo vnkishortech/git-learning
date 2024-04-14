@@ -53,3 +53,9 @@ git branch -D feature
 # push changes to main
 
 git push
+
+# creating branch and pushing to remote repository
+
+# github does not know about feature branch, so push to upstream by using below command
+
+git push -set-upstream origin red
