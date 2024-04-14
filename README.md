@@ -29,3 +29,5 @@ git reset --hard origin/master
 1. git branch
 2. git checkout
 3. git merge
+
+git checkout -b feature
