@@ -23,3 +23,9 @@ git config --global --unset pull.ff
 
 git reset --hard <commit>
 git reset --hard origin/master
+
+#branching
+
+1. git branch
+2. git checkout
+3. git merge
