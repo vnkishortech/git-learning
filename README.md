@@ -32,4 +32,6 @@ git reset --hard origin/master
 
 git checkout -b <feature name>
 
+git checkout main #Switch to main branch
+
 #making same chagnes
