@@ -34,4 +34,22 @@ git checkout -b <feature name>
 
 git checkout main #Switch to main branch
 
-#making same chagnes
+# to swtich feature branch
+
+git checkout feature
+
+#making same chaganges in feature branch
+
+git checkout main
+
+# to merge fature branch to main branch
+
+git merge feature
+
+# to delete feature branch
+
+git branch -D feature
+
+# push changes to main
+
+git push
