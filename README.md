@@ -30,4 +30,6 @@ git reset --hard origin/master
 2. git checkout
 3. git merge
 
-git checkout -b feature
+git checkout -b <feature name>
+
+#making same chagnes
