@@ -20,3 +20,6 @@ git config pull.ff only # fast-forward only
 
 #to remove a setting from global setting
 git config --global --unset pull.ff
+
+git reset --hard <commit>
+git reset --hard origin/master
